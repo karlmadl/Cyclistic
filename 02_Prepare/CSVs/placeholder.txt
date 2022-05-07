@@ -1,0 +1,3 @@
+csv's for 2021-05 through 2022-04 are located in this folder but not
+uploaded to GitHub for space-saving. To download the data, visit:
+https://divvy-tripdata.s3.amazonaws.com/index.html

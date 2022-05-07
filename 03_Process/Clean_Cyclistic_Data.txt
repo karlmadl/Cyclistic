@@ -1,0 +1,2 @@
+In an effort to save space, the entire csv of cleaned data has been
+ignored to upload to GitHub.
