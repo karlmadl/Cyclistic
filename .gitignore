@@ -1,3 +1,4 @@
 test.ipynb
 02_Prepare/CSVs/*.csv
 03_Process/Clean_Cyclistic_Data.csv
+04_Analyze/station_interactions.csv
