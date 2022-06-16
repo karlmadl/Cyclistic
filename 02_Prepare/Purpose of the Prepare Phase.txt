@@ -1,0 +1,2 @@
+During the Prepare Phase, data collection methods are developed (or 
+sources are identified) and data is collected. 
